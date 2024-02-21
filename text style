@@ -1,0 +1,56 @@
+<style>
+    .video-title{
+        font-family: Arial;
+        font-size: 20px;
+        font-weight: bold;
+        text-align: left;
+        width: 300px;
+        line-height: 26px;
+    }   
+</style>
+<p class="video-title">talking tech and AI with goodle Ceo sundar Pichai 
+</p>
+
+<p class="view-title">3.4M views &#183; 6 months ago </p>
+<style>
+    .view-title{
+        font-family: Arial;
+        font-size: 14px;
+        color: gray;
+        margin-top: 20px;
+    }
+</style>
+
+<p class="m-title">
+    Marque Brownlee &#10003;
+</p>
+
+<style>
+    .m-title{
+        font-family: Arial;
+        font-size: 14px;
+        color: grey;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+</style>
+
+<p class="talking-title">
+    I was going to see if my journey was good 
+    but the fact that i meet with you make me 
+    look week and i saw the weather and all the condition 
+</p>
+
+<style>
+    .talking-title{
+        font-family: Arial;
+        font-size: 25px;
+        color: grey;
+        width: 300px;
+        line-height: 22px;
+        margin-top: 0;
+
+    }
+
+</style>
